@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+
+  width: 100vw;
+  min-height: 100vh;
+
+  background-color: rgb(240, 242, 245) !important;
+
+  padding: 100px 0;
+}
